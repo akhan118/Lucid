@@ -6,7 +6,7 @@
  */
 
 
-echo 'hello';
+echo 'test';
 
 whatever
 ?>
